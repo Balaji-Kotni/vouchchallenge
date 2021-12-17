@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "572306654247",
+    "project_id": "vouchchallenge",
+    "storage_bucket": "vouchchallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572306654247:android:fdac53aa168e909680ba02",
+        "android_client_info": {
+          "package_name": "com.vouchchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572306654247-32s0b8p0pf36mkhrqcbptifht1if8re1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM_5u1oo_tIuXn1T1AIGHzj2aGVIRIIC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572306654247-32s0b8p0pf36mkhrqcbptifht1if8re1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "572306654247-2l1e7grnrbpo4r40qn8sko4fmdam5cvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.VouchChallenge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
